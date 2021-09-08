@@ -5,5 +5,5 @@ function hello(name: string): string {
   return `Hello from ${name}`;
 }
 
-myName = "TheCodeholic";
+myName = "Console DevOps";
 console.log(hello(myName));
